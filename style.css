@@ -1,0 +1,36 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#emo_name1 ,#emo_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading{letter-spacing: 4px;
+font-size: 20px;
+}
+label{
+  background-color: white;
+color: dodgerblue;
+padding: 5px;
+font-size: 15px;
+}
